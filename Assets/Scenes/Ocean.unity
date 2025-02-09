@@ -615,8 +615,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc8eeeda4d2377e44ab8e4a4a1115f7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: dasddsa
-  _description: dsadsa
+  _name: "M\xE9rou ray\xE9"
+  _description: En voie d'extinction
   scaleSpeed: 5
 --- !u!64 &1094756441
 MeshCollider:
@@ -1013,8 +1013,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc8eeeda4d2377e44ab8e4a4a1115f7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: dasdsa
-  _description: dsadsa
+  _name: Le thon rouge de l'Atlantique
+  _description: 'En voie d''extinction '
   scaleSpeed: 5
 --- !u!64 &1498475214
 MeshCollider:
@@ -1118,8 +1118,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc8eeeda4d2377e44ab8e4a4a1115f7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: Requin
-  _description: Va te manger
+  _name: Le Requin longimane
+  _description: En voie d'extinction
   scaleSpeed: 5
 --- !u!64 &1658804967
 MeshCollider:
@@ -1359,8 +1359,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc8eeeda4d2377e44ab8e4a4a1115f7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: dsasad
-  _description: dsasda
+  _name: "L\u2019anguille d'Europe"
+  _description: En voie d'extinction
   scaleSpeed: 5
 --- !u!64 &2040412354
 MeshCollider:
@@ -1464,8 +1464,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc8eeeda4d2377e44ab8e4a4a1115f7b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: ddd
-  _description: dd
+  _name: "L'hoplost\xE8the orange"
+  _description: En voie d'extinction
   scaleSpeed: 5
 --- !u!64 &2104915952
 MeshCollider:
